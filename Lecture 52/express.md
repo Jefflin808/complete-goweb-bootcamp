@@ -1,4 +1,7 @@
+write file: ./starter/dev-data/data/tours-simple.json
+
 app.use(express.json()) //json middleware
+
 Post
     req
         .body 

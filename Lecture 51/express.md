@@ -1,4 +1,4 @@
-starter/data/tours-simple.json
+read file: ./starter/dev-data/data/tours-simple.json
 
 get
     .status()
